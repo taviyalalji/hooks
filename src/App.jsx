@@ -17,9 +17,9 @@ function App() {
 
   return(
     <>
-    <ContextCreat.Provider value={{count, data, demo}}>
+    {/* <ContextCreat.Provider value={{count, data, demo}}>
         <Blog />
-    </ContextCreat.Provider>
+    </ContextCreat.Provider> */}
 
     {/* <UseEffectHook /> */}
     {/* <UserefHook /> */}
